@@ -31,7 +31,7 @@
 				       		</div>
 			        		<div class="col-sm-3">
 			        			<div class="float-right">
-			        				<button onclick="window.location='#'" type="button" class="btn btn-secondary">My button</button>
+			        				<!-- <button onclick="window.location='#'" type="button" class="btn btn-secondary">My button</button> -->
 			        			</div>
 			        		</div>
 		        		</div>

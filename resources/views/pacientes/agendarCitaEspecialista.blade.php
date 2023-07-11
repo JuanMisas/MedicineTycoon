@@ -19,6 +19,7 @@
 	        		<span class="glyphicon glyphicon-ok"><strong>No hay citas a disponibles a esa fecha y hora</strong>
 				</div>
 			</div>
+            @endif
             <div class="card">
                 <div class="card-header">
                     {{ __('Agendar Cita con Especialista') }} 
@@ -70,6 +71,7 @@
                     </form>
                 </div>
             </div>
+            
         </div>
     </div>
 </div>
