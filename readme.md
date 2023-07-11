@@ -20,3 +20,17 @@ Una vez creados usuarios suficientes de cada tipo, podemos proceder a ingresar a
 Desde el perfil de un médico general, podemos generar una orden para que que el paciente pueda agendar una cita con un médico especialista.
 Desde el perfil del paciente, podemos consultar las órdenes existentes y por medio de ellas podemos agendar citas con médicos especialistas.
 Desde el perfil de un médico especialista, podemos generar una nueva orden.
+
+### Captions
+
+<img src="/public/images/1.png" alt="1">
+
+<img src="/public/images/2.png" alt="2">
+
+<img src="/public/images/3.png" alt="3">
+
+<img src="/public/images/4.png" alt="4">
+
+<img src="/public/images/5.png" alt="5">
+
+<img src="/public/images/6.png" alt="6">
